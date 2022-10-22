@@ -1,0 +1,25 @@
+{
+  "short_name": "SPEECH TO TEXT",
+  "name": "SPEECH TO TEXT DEMO",
+  "icons": [
+    {
+      "src": "voice-message.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "voice-message128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "voice-message512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
